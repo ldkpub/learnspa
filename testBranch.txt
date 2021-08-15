@@ -1,1 +1,8 @@
 XXX新功能开发完毕。
+
+
+void anotherFunction（）
+{
+	printf("line 3\n");
+	return 0;
+}
