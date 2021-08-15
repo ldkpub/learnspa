@@ -1,1 +1,7 @@
 XXX新功能开发完毕。
+
+void main()
+{
+	printf("line 1\n");
+	return 0;
+}
